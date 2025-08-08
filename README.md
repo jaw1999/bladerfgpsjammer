@@ -1,4 +1,4 @@
-# BladeRF GPS Jammer - Educational RF Testing
+# BladeRF GPS Jammer 
 
 Testing suite for GPS signal disruption using BladeRF xA9 SDR.
 
