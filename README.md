@@ -18,7 +18,7 @@ sudo apt-get install libbladerf-dev libbladerf2 bladerf
 
 ### Python Setup
 
-Easy setup with our script:
+Easy setup with script:
 ```bash
 # Create virtual environment
 python3 -m venv venv
