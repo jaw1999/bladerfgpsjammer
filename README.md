@@ -59,7 +59,7 @@ Simultaneous transmission on two bands (power is split):
 # L1 + L2 combo
 python transmit_gps_l1_l2_dual.py
 
-# L1 + L5 combo (civilian bands)
+# L1 + L5 combo
 python transmit_gps_l1_l5_dual.py
 
 # L2 + L5 combo
