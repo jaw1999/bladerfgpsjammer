@@ -122,8 +122,6 @@ This warning is normal and can be ignored:
 ```
 [INFO @ host/libraries/libbladeRF/src/helpers/version.c:103] FPGA version (v0.16.0) is newer than entries...
 ```
-### Weak L1 Signal
-L1 (1575 MHz) has naturally lower power output than L2/L5. This is a hardware characteristic of the BladeRF amplifier chain.
 
 ### Python Import Errors
 Ensure BladeRF Python bindings are properly installed:
