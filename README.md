@@ -146,5 +146,4 @@ Press `Ctrl+C` to cleanly stop any running script.
 └── transmit_gps_l2_l5_dual.py  # Dual L2+L5
 ```
 
-## Disclaimer
-This software is provided for educational and research purposes only. Users are solely responsible for compliance with all applicable laws and regulations. The authors assume no liability for misuse or damage caused by this software.
+
